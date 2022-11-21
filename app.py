@@ -10,6 +10,7 @@ import sys
 import fire
 import questionary
 from pathlib import Path
+import csv
 
 from qualifier.utils.fileio import load_csv
 
@@ -109,7 +110,18 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+
+    # We need to confirm if user wants to save the file.
+    question = questionary.confirm("Would you like to save the new file?").ask()
+
+    if question == False:
+      print("")
+      print("Thank you for using the app. Goodbye!")
+      quit()
+    else: 
+        name = questionary.text("Enter the new file name").ask
+
+
 
 
 def run():
