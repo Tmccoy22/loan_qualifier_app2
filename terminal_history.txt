@@ -1,0 +1,869 @@
+   50  conda activate dev
+   51  jupyter lab
+   52  conda deactivate
+   53  conda create -n dev pyton=3.7 anaconsa
+   54  conda create -n dev python=3.7 anaconda
+   55  conda activate dev
+   56  echo $(shell)
+   57  conda init zsh
+   58  conda deactivate
+   59  pwd
+   60  ls
+   61  cd
+   62  cd desktop
+   63  mkdir fintech-workspace
+   64  cd desktop
+   65  cd
+   66  cd desktop
+   67  mkdir Fintech_Workspace
+   68  cd ..
+   69  pwd
+   70  ls
+   71  ls
+   72  cd desktop
+   73  ls
+   74  cd Fintech_Workspace
+   75  ls
+   76  cd Python_Project
+   77  ls
+   78  conda activate dev
+   79  python --version
+   80  code .
+   81  python hello_python.py
+   82  conda deactivate
+   83  code . 
+   84  test.py
+   85  comapny_abc_stock_price
+   86  test.py
+   87  activate conda dev
+   88  conda activate dev
+   89  test.py
+   90  pyton M1L3.py
+   91  conda activate dev
+   92  python M1L3.py
+   93  conda deactivate
+   94  ls
+   95  cd desktop
+   96  ls
+   97  cd fintech_workspace
+   98  ls
+   99  cd python_project
+  100  conda activate
+  101  conda activate dev
+  102  python M1L3
+  103  ls
+  104  cd Varibles1.3.1
+  105  M1L3
+  106  M1L3.py
+  107  ls
+  108  print
+  109  run
+  110  M1L3.py
+  111  ls 
+  112  cd M1L3.py
+  113  print
+  114  conda deactivate
+  115  M1L3.py
+  116  M1L3.py
+  117  conda activate dev
+  118  M1L3.py
+  119  code . 
+  120  Varibels1.3.1
+  121  M1L3.py
+  122  Test
+  123  test.py
+  124  test.py
+  125  conda deactivate
+  126  code .
+  127  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  128  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  129  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  130  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  131  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  132  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  133  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  134  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  135  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  136  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  137  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  138  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Solved/hello_variable_world.py
+  139  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  140  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  141  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  142  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  143  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  144  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  145  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  146  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  147  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  148  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  149  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  150  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  151  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/02_Listing_Assets/Unsolved/listing_assets.py
+  152  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/02_Listing_Assets/Unsolved/listing_assets.py
+  153  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/02_Listing_Assets/Unsolved/listing_assets.py
+  154  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  155  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  156  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L3.py
+  157  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  158  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  159  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  160  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  161  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  162  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  163  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  164  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  165  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  166  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  167  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  168  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  169   /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52644 -- /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  170   cd /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project ; /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52809 -- /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  171   cd /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project ; /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53220 -- /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  172   /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52652 -- /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  173   /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52662 -- /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  174   cd /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project ; /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53231 -- /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  175   cd /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project ; /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53240 -- /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  176  test.py
+  177  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L4.py
+  178  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L4.py
+  179  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L4.py
+  180  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L4.py
+  181  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L4.py
+  182  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  183  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  184  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  185  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  186  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  187  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  188  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  189  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  190  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  191  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  192  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  193  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/01_Conditional_Statement/Unsolved/conditional_statement.py
+  194  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  195  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  196  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  197  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  198  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  199  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  200  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  201  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  202  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  203  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  204  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  205  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  206  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  207  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  208  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  209  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  210  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  211  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  212  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  213  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  214  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  215  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  216  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L5.py
+  217  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L5.py
+  218  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L5.py
+  219  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L5.py
+  220  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  221  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  222  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  223  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  224  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/02_Returned_Goods/Unsolved/returned_goods.py
+  225  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  226  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  227  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  228  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  229  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  230  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  231  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  232  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  233  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  234  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  235  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  236  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  237  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  238  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  239  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  240  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  241  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  242  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  243  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  244  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  245  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  246  import pathlib
+  247  form pthlib import PAth
+  248  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  249  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  250  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  251  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  252  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  253  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  254  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  255  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  256  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  257  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  258  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  259  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  260  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success.py
+  261  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  262  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success_part_2.py
+  263  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success_part_2.py
+  264  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success_part_2.py
+  265  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/pathways_to_success_part_2.py
+  266  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  267  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  268  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  269  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  270  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  271  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  272  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  273  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L6/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py
+  274  import pathlib
+  275  ls
+  276  cd desktop
+  277  ls
+  278  cd Fintech_Workspace
+  279  ls
+  280  ls
+  281  cd M1L6
+  282  conda activate def
+  283  conda activate dev
+  284  import pathlilb
+  285  "code ."
+  286  code "."
+  287  import Path
+  288  import path lib
+  289  from pathlin import Path
+  290  form pathlib import Path
+  291  import pathlib from Path
+  292  l s
+  293  ls
+  294  cd desktop
+  295  ls
+  296  pwd
+  297  back
+  298  ..
+  299  .
+  300  . . 
+  301  pwd
+  302  cd..
+  303  cd
+  304  pwd
+  305  ls
+  306  code ..
+  307  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/M1L6
+  308  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  309  pwd
+  310  cd
+  311  ls
+  312  pwd
+  313  cd desktop
+  314  pwd
+  315  mkdir pets
+  316  ls
+  317  cd pets
+  318  mkdir dogs
+  319  mkdir cats
+  320  ls
+  321  cd cats
+  322  pwd
+  323  touch name.txt
+  324  ls
+  325  code name.txt
+  326  cd pets
+  327  cd
+  328  pwd
+  329  cd desktop
+  330  ls
+  331  cd pets
+  332  pwd
+  333  ls
+  334  cd dogs
+  335  cd cats
+  336  cd ..
+  337  rm cats
+  338  ls
+  339  rm - d cats
+  340  rm cats
+  341  rm - r _cats
+  342  rm - r cats
+  343  ls
+  344  rm cats
+  345  ls
+  346  ls
+  347  cd cats
+  348  ls
+  349  rm - r
+  350  rm -r cats
+  351  cd . .
+  352  pwd
+  353  cd ..
+  354  rm -r cats
+  355  ls
+  356  cd dogs
+  357  touch name.txt
+  358  code ..
+  359  mv lucky
+  360  ls
+  361  cd ..
+  362  ls
+  363  name.txt
+  364  cd dogs
+  365  name.txt
+  366  ls
+  367  cd name.txt
+  368  cat name.txt
+  369  cat dogs
+  370  cat txt
+  371  cat name.txt
+  372  cat name.txt
+  373  pwd
+  374  mv Luckly
+  375  mv dogs Lucky
+  376  mv dogs
+  377  Lucky
+  378  ls
+  379  cd. 
+  380  cd .
+  381  cd ..
+  382  mv dogs Lucky
+  383  ls
+  384  cd ..
+  385  pwd
+  386  ls
+  387  cd.ssh/
+  388  cd .ssh/
+  389  ls
+  390  ssh-keygen -t ed25519 -C "terrence.c.mccoy@gmail.com"
+  391  ls
+  392  cd Downloads
+  393  ls
+  394  mv Starter_Code.zip Desktop
+  395  cd..
+  396  cd ..
+  397  ls
+  398  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Chellenges/Challenge_1/Starter_Code/loan_analyzer.py
+  399  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Chellenges/Challenge_1/Starter_Code/loan_analyzer.py
+  400  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Chellenges/Challenge_1/Starter_Code/loan_analyzer.py
+  401  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  402  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  403  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  404  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  405  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  406  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  407  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  408  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  409  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  410  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  411  /usr/bin/python3 /Users/16aroundmax/Downloads/02_Listing_Assets/Solved/listing_assets.py
+  412  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  413  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  414  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  415  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  416  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  417  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  418  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  419  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  420  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/M1L3/03_The_401k_Shuffle/Solved/the_401k_shuffle.py
+  421  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  422  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  423  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  424  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  425  /usr/bin/python3
+  426  conda activate dev
+  427  pip -V
+  428  pip freeze
+  429  pip install fire
+  430  pip install questionary
+  431  vim ~/.bashrc
+  432  mkdir git
+  433  ls
+  434  cd git
+  435  pwd
+  436  git clone git@github.com:Tmccoy22/Fintech106.git
+  437  clone git git@github.com:Tmccoy22/Fintech106.git
+  438  git close git@github.com:Tmccoy22/Fintech106.git
+  439  git clone git@github.com:Tmccoy22/Fintech106.git
+  440  open .
+  441  cd fintech106
+  442  pwd
+  443  ls
+  444  code README.md
+  445  git add -A
+  446  git commit -m "I have added couple of line"
+  447  git push
+  448  touch Quotes.txt
+  449  ls
+  450  code Quotes.txt
+  451  git add -A
+  452  git commit -m "Added a new file Quotes.txt"
+  453  git push
+  454  git status
+  455  git checkout -b Newfintch
+  456  git status
+  457  get add -A 
+  458  git add -A 
+  459  git commit -m "Additional quotes"
+  460  git push
+  461  git push origin
+  462  git push origin Newfintech
+  463  git push origin Newfintch
+  464  git status
+  465  git checkout main
+  466  pit pull
+  467  git pull
+  468  pwd
+  469  cd ~
+  470  pwd
+  471  vim ~vim ~/.bashrc
+  472  vim ~/.bashrc
+  473  vim ~/.bashrc
+  474  vim ~/.bashrc
+  475  source ~/.bashrc
+  476  cd git
+  477  ls
+  478  code ..
+  479  cd fintch
+  480  cd Fintech106
+  481  git 
+  482  ls
+  483  cd ~
+  484  vim ~/.bashrc
+  485  source ~/.bashrc
+  486  source ~/.bashrc
+  487  cd git
+  488  cd git
+  489  ls
+  490  cd ~
+  491  vim ~/.bashrc
+  492  source ~/.bashrc
+  493  cd git
+  494  cd ~
+  495  vim ~/.bashrc
+  496  source ~/.bashrc
+  497  vim ~/.bashrc\n
+  498  cd git
+  499  source ~/.bashrc
+  500  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  501  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  502  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  503  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  504  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  505  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  506  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  507  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  508  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  509  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  510  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  511  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/M1L5/03_Split_Second_Homebuying_Part_2 2/Solved/split_second_part_2.py"
+  512  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  513  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  514  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  515  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  516  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  517  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  518  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  519  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  520  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  521  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  522  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  523  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  524  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  525  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  526  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  527  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  528  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  529  cd git
+  530  clone git@github.com:Tmccoy22/FintechHomeworks101.git
+  531  git clone git@github.com:Tmccoy22/FintechHomeworks101.git
+  532  pwd
+  533  code weeek1_Homework.md
+  534  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  535  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  536  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  537  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  538  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  539  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  540  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  541  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  542  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  543  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  544  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  545  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  546  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  547  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  548  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  549  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  550  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  551  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  552  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  553  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  554  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  555  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 1 /M1L6/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py"
+  556  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  557  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  558  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  559  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  560  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  561  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  562  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  563  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  564  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  565  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  566  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  567  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  568  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  569  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  570  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  571  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  572  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  573  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  574  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  575  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  576  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  577  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 1 /M1L6/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py"
+  578  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  579  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  580  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 1 /M1L6/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py"
+  581  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  582  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  583  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  584  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  585  /usr/bin/python3
+  586  ls
+  587  cd desktop
+  588  ls
+  589  cd Fintech_Workspace
+  590  ls
+  591  cd Challenges
+  592  ls
+  593  pwd
+  594  cd Challenge_1
+  595  ls
+  596  git add -A
+  597  ls
+  598  cd ..
+  599  ls
+  600  cd ..
+  601  ls
+  602  cd Challenges
+  603  ls
+  604  git clone git@github.com:Tmccoy22/loan-analyzer.git
+  605  ls
+  606  cd loan-analyzer
+  607  ls
+  608  git add -A
+  609  git commit -m "initial commit"
+  610  git push origin main
+  611  git add -A
+  612  git commit -m "final submission"\n
+  613  git push origin main
+  614  pwd
+  615  cd
+  616  ls
+  617  cd desktop
+  618  ls
+  619  conda activate dev
+  620  pip -V
+  621  pip freeze
+  622  pip -V
+  623  cd ...
+  624  cd ..
+  625  conda
+  626  pip install fire
+  627  pp install questionary
+  628  pip install questionary
+  629  conda stop
+  630  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  631  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  632  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  633  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  634  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  635  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  636  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  637  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  638  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  639  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  640  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  641  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Challenges/Challenge_1/Starter_Code/loan_analyzer.py
+  642  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  643  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  644  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  645  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  646  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  647  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  648  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  649  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  650  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  651  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  652  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  653  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  654  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  655  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  656  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  657  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  658  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  659  /usr/bin/python3 "/Users/16aroundmax/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  660  ls
+  661  cd desktop
+  662  ls
+  663  cd Fintech_Workspace
+  664  ls
+  665  cd module 2
+  666  cd Module 2
+  667  ls
+  668  cd Module 2
+  669  pwd
+  670  ls
+  671  cd Module 2
+  672  cd Module\ 
+  673  cd Module 2
+  674  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  675  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  676  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/utils/fileio.py
+  677  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/utils/loan_to_value.py
+  678  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  679  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  680  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  681  /usr/bin/python3 Untitled-1
+  682  pip install fire
+  683  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/cli.py
+  684  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/cli.py
+  685  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/Python_Project/cli.py
+  686  cd
+  687  ls
+  688  cd Desktop
+  689  ls
+  690  cd Fintech_Workspace
+  691  ls
+  692  cd Python_Project
+  693  ls
+  694  python cli.py
+  695  conda activte dev
+  696  conda active dev
+  697  conda activate dev
+  698  python cli.py
+  699  python cli.py --pants=true
+  700  python cli.py
+  701  python cli.py --pants=true
+  702  python cli.py --pants=true
+  703  cli.py
+  704  python cli.py
+  705  ls
+  706  cd ..
+  707  ls
+  708  cd m_2
+  709  ls
+  710  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  711  python 
+  712  /usr/bin/python3 /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  713   /usr/bin/env /usr/bin/python3 /Users/16aroundmax/.vscode/extensions/ms-python.python-2022.18.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50116 -- /Users/16aroundmax/Desktop/Fintech_Workspace/m_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  714  conda activate dev
+  715  cd
+  716  cd app.py
+  717  ls
+  718  cd Desktop
+  719  cd
+  720  ls
+  721  cd Desktop
+  722  ls
+  723  cd Fintech_Workspace
+  724  ls
+  725  cd m_2
+  726  ls
+  727  dc 01_Adding_Fire_to_the_Loan_Qualifier_App
+  728  ls
+  729  cd 01_Adding_Fire
+  730  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  731  ls
+  732  cd Unsolved
+  733  ls
+  734  python app.py
+  735  python app.py
+  736  pyton app.py --credit_score=750
+  737  python app.py --credit_score=750
+  738  pip install questionary
+  739  cd Desk
+  740  cd Desktop
+  741  ls
+  742  cd Fintec
+  743  cd Fintech_Workspace
+  744  ls
+  745  cd m_2
+  746  ls
+  747  cd dialog.py
+  748  cd dial
+  749  conda activate dev
+  750  cd dialog.py
+  751  python dialog.py
+  752  python dialog.py
+  753  python dialog.py
+  754  python dialog.py
+  755  ls
+  756  cd 02_Adding_questionary_to_Loan_Qualifier
+  757  python app.py
+  758  ls
+  759  cd Unsolved
+  760  python app.py
+  761  python app.py --credit_score=750 --debt=5000 --income=20000
+  762  python app.py --credit_score=750 --debt=5000 --income=20000
+  763  import questionary
+  764  python app.py
+  765  cd .. 
+  766  ls
+  767  cd Solved
+  768  python app.py
+  769  python app.py
+  770  cd Des
+  771  cd Desktop
+  772  ls
+  773  mkdir test_repo
+  774  ls
+  775  cd test_repo
+  776  git clone <paste link here>\n
+  777  git clone git clone git@github.com:Tmccoy22/test_repo.git
+  778  git clone git@github.com:Tmccoy22/test_repo.git
+  779  git status
+  780  git status
+  781  ls
+  782  git status
+  783  ls
+  784  cd test_repo
+  785  ls
+  786  git status
+  787  git add README.md
+  788  gti status
+  789  git status
+  790  touch new_file_test
+  791  git status
+  792  git add new_file_test
+  793  git status
+  794  git commit -m "testing 123"
+  795  git status
+  796  ls
+  797  commit -m "test"
+  798  commit -m "test"
+  799  history 50 > terminal_histor.txt
+  800  ls
+  801  cd Desktop
+  802  ls
+  803  cd Fintech_Workspace
+  804  ls
+  805  cd challenges
+  806  ls
+  807  cd challenge_2
+  808  ls
+  809  cd loan_qualifier_app
+  810  ls
+  811  cd app.py
+  812  python app.py
+  813  cd ..
+  814  cd ..
+  815  cdcd ~
+  816  cd ~
+  817  pwd
+  818  git config --global user.name terrence mccoy
+  819  git config --global user.email terrence.c.mccoy@gmail.com
+  820  git config --list
+  821  ls
+  822  cd Desktop
+  823  ls
+  824  cd Fintech_Workspace
+  825  cd
+  826  ls
+  827  cd Desktop
+  828  cd Fintech_Workspace
+  829  ls
+  830  cd challenges_2
+  831  cd challenges
+  832  ls
+  833  cd challenges_2
+  834  cd challenges_2
+  835  cd challenge_2
+  836  ls
+  837  cd loan_qualifier_app
+  838  ls
+  839  git clone git@github.com:Tmccoy22/loan_qualifier_app2.git
+  840  git status
+  841  git status
+  842  git commit -m "upload loan qualifer app and file"
+  843  ls
+  844  cd loan_qualifier_app2
+  845  git commit -m "uploaded app.py files and reademe.md"
+  846  git push
+  847  git status
+  848  git add app.py
+  849  git add data/
+  850  git add qualifier
+  851  git add README.md
+  852  git add .DS_Store
+  853  git status
+  854  git push
+  855  git push loan_qualifer_app2
+  856  git push README.md
+  857  cd ~
+  858  ls
+  859  cd Des
+  860  cd Desktop
+  861  ls
+  862  cd test_repo
+  863  ls
+  864  cd test_repo
+  865  ls
+  866  git status
+  867  pit push
+  868  git push
+  869  cd ~
+  870  cd Desktop
+  871  cd Fintech_Workspace
+  872  ls
+  873  cd chall
+  874  cd challenges
+  875  ls
+  876  cd challenge_2
+  877  ls
+  878  cd loan_qualifier_app
+  879  cd loan_qualifier_app2
+  880  commit -m "uploaded files"
+  881  git commit"uploaed new files"
+  882  git add -A
+  883  git commit -m "new uploads"
+  884  git push
+  885  python app.py
+  886  ls
+  887  cd app.py
+  888  python app.py
+  889  python app.py
+  890  python app.py
+  891  python app.py
+  892  paython app.py
+  893  python app.py
+  894  python app.py
+  895  python app.py
+  896  python app.py
+  897  python app.py
+  898  ls
+  899  cd README.md
+  900  git add 
+  901  git add -A
+  902  git commit - m "added to README"
+  903  git add -a
+  904  git add -A
+  905  git push
+  906  git add README.md
+  907  git commit -m "updated bg and tech" README.md
+  908  git add README.md
+  909  git push README.md
+  910  ls
+  911  git add -A
+  912  git commit -m "updated Readme and app.py ask to save"
+  913  git push
+  914  ls
+  915  git add -A
+  916  git commit -m "Images, final code, and readme updated"
+  917  git push
+  918  history 50 > terminal_history.txt

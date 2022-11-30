@@ -33,7 +33,9 @@ To use the loan qualifier application simply clone the repository and run the **
 ```python
 python app.py
 ```
+Here is an example of the app in use 
 
+![Loan Qualifier Prompts](https://github.com/Tmccoy22/loan_qualifier_app2/blob/main/Images/Screen%20Shot%202022-11-30%20at%2012.51.27%20PM.png) 
 
 ---
 
