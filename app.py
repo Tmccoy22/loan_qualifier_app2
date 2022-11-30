@@ -112,16 +112,22 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
 
     # We need to confirm if user wants to save the file.
-    question = questionary.confirm("Would you like to save the new file?").ask()
+    if qualifying_loans == []:
+        sys.exit("You have no qualifying loans at this time. Please try again at another time.  Thank you.")
 
-    if question == False:
-      print("")
-      print("Thank you for using the app. Goodbye!")
-      quit()
-    else: 
-        name = questionary.text("Enter the new file name").ask
+    #Using Quesionary confirm() to get user input of whether they want to save their CSV file or not
+    else:
+        confirm_save = questionary.confirm("Would you like to save your loan file?").ask()
+        
+        if confirm_save == True:
+            csvoutpath = questionary.text("Enter a file path of where you would like to save your loan file.").ask()
+            csvoutpath = Path(csvoutpath)
+            print (f"Your file has been saved in {csvoutpath}. Thank you")
 
+            return save_csv(qualifying_loans)
 
+        else:
+            sys.exit("Your file has not been saved. Thank you")
 
 
 def run():
